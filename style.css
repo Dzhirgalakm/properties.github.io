@@ -1,0 +1,17 @@
+div {
+  height: 200px;
+  width: 56%;
+  border: 1px solid #333;
+  transition: all 0.4s ease;
+  position: absolute;
+  left: 22%;
+  top: 10%;
+}
+
+input {
+  border: 1px solid #333;
+  width: 53%;
+  position: absolute;
+  left: 22%;
+  top: 50%;
+}
